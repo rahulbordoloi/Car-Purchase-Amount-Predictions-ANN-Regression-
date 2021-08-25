@@ -9,7 +9,7 @@ scipy>=0.15.1
 scikit-learn==0.22.2.post1
 matplotlib==3.2.1
 pandas==1.0.3
-tensorflow==1.15.2
+tensorflow==2.5.1
 seaborn==0.10.1
 keras==2.3.1
 werkzeug==1.0.1
